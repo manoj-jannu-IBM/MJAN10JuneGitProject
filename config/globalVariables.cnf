@@ -23,6 +23,11 @@
         <value name="value">gvhandle.MJANSFCID</value>
         <value name="isSecure">true</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">MJANSFCSecret</value>
+        <value name="value">gvhandle.MJANSFCSecret</value>
+        <value name="isSecure">true</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
