@@ -12,7 +12,7 @@ packages:
   wpmServer: https://packages.webmethods.io
   wpmRegistry: supported
 services:
-- serviceName: project.mjan10junegit.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.connections:MJANSFAuth20
+- serviceName: project.mjan10junegit.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.connections:SFMJANTest11june
   packages:
   - name: MJAN10JuneGitProject
     version: "1.0"
