@@ -45,9 +45,8 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="createdBy">Manoj.Jannu@ibm.com</value>
-    <value name="createdDate">1781164555878</value>
-    <value name="lastModifiedDate">1781164555878</value>
+    <value name="lastModifiedBy">Manoj.Jannu@ibm.com</value>
+    <value name="lastModifiedDate">1781164614343</value>
     <value name="displayName">SFTest</value>
     <value name="description"></value>
     <array name="appList" type="record" depth="1">
@@ -103,12 +102,17 @@
         </array>
         <array name="lookupTransformer" type="object" depth="1" javaclass="java.lang.Object">
         </array>
-        <array name="mapSet" type="object" depth="1" javaclass="java.lang.Object">
-        </array>
+        <null name="mapSet"/>
         <array name="inputMap" type="object" depth="1" javaclass="java.lang.Object">
         </array>
         <array name="outputMap" type="object" depth="1" javaclass="java.lang.Object">
         </array>
+        <number name="ui_step_index" type="Long">1</number>
+        <value name="nodePathNew">0</value>
+        <number name="nodeIndex" type="Long">0</number>
+        <number name="lineNumberForDebug" type="Long">1</number>
+        <Boolean name="xmlMapsetSupported">true</Boolean>
+        <null name="outputMapSet"/>
       </record>
     </record>
   </record>
